@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChatApp-with-React-Firebase/static/css/main.de108599.css",
+    "main.js": "/ChatApp-with-React-Firebase/static/js/main.c842a2c7.js",
+    "index.html": "/ChatApp-with-React-Firebase/index.html",
+    "main.de108599.css.map": "/ChatApp-with-React-Firebase/static/css/main.de108599.css.map",
+    "main.c842a2c7.js.map": "/ChatApp-with-React-Firebase/static/js/main.c842a2c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de108599.css",
+    "static/js/main.c842a2c7.js"
+  ]
+}
